@@ -1,0 +1,16 @@
+C:\Users\Korisnik\source\repos\Knjiznica\bin\Debug\netcoreapp3.1\Knjiznica.exe
+C:\Users\Korisnik\source\repos\Knjiznica\bin\Debug\netcoreapp3.1\Knjiznica.deps.json
+C:\Users\Korisnik\source\repos\Knjiznica\bin\Debug\netcoreapp3.1\Knjiznica.runtimeconfig.json
+C:\Users\Korisnik\source\repos\Knjiznica\bin\Debug\netcoreapp3.1\Knjiznica.runtimeconfig.dev.json
+C:\Users\Korisnik\source\repos\Knjiznica\bin\Debug\netcoreapp3.1\Knjiznica.dll
+C:\Users\Korisnik\source\repos\Knjiznica\bin\Debug\netcoreapp3.1\Knjiznica.pdb
+C:\Users\Korisnik\source\repos\Knjiznica\obj\Debug\netcoreapp3.1\Knjiznica.csproj.AssemblyReference.cache
+C:\Users\Korisnik\source\repos\Knjiznica\obj\Debug\netcoreapp3.1\Knjiznica.Form1.resources
+C:\Users\Korisnik\source\repos\Knjiznica\obj\Debug\netcoreapp3.1\Knjiznica.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\Knjiznica\obj\Debug\netcoreapp3.1\Knjiznica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\source\repos\Knjiznica\obj\Debug\netcoreapp3.1\Knjiznica.AssemblyInfoInputs.cache
+C:\Users\Korisnik\source\repos\Knjiznica\obj\Debug\netcoreapp3.1\Knjiznica.AssemblyInfo.cs
+C:\Users\Korisnik\source\repos\Knjiznica\obj\Debug\netcoreapp3.1\Knjiznica.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\Knjiznica\obj\Debug\netcoreapp3.1\Knjiznica.dll
+C:\Users\Korisnik\source\repos\Knjiznica\obj\Debug\netcoreapp3.1\Knjiznica.pdb
+C:\Users\Korisnik\source\repos\Knjiznica\obj\Debug\netcoreapp3.1\Knjiznica.genruntimeconfig.cache
